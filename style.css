@@ -29,4 +29,9 @@ button {
   color: white;
   border: none;
   cursor: pointer;
+}ul {
+  background: white;
+  padding: 10px;
+  width: 200px;
 }
+

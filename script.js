@@ -1,3 +1,4 @@
 function showMessage() {
-  alert("Thanks for contacting me!");
+  alert("Thanks for visiting my website!");
 }
+

@@ -3,7 +3,9 @@ body {
   background-color: #f4f4f4;
   padding: 20px;
 }
-
+.btn:hover {
+  background: #45a049;
+}
 h1 {
   color: #333;
 }

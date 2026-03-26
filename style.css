@@ -52,4 +52,9 @@ button {
   transform: scale(1.02);
   transition: 0.3s;
 }
-
+.card {
+  padding: 15px;
+  background: #f4f4f4;
+  margin-top: 20px;
+  border-radius: 8px;
+}
